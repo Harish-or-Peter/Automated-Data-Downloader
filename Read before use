@@ -2,8 +2,8 @@ Introduction:
 Automated-Data-Downloader is an automated tool that can be essentially used for downloading data from WOS (Web of Science). Basically, WOS is a very famous database that possesses a tremendous amount of research papers, articles, and conference proceedings’ data which is very helpful for a social scientist or a research scholor to carry out any kind of researchs. Sometimes they need to download a huge amount of data from WOS database again and again and here comes this tool (Automated-Data-Downloader) which could be very helpful for them as their task of the weeks converts into hours, even without human intervention.
 
 Prerequisites:
-1.To use this tool you must have a fast internet connection, a Python interpreter over which this program could be run, and a WOS subscription.
-2. You must have selenium chromedriver compatable to your device
+1. To use this tool you must have a fast internet connection, a Python interpreter over which this program could be run, and a WOS subscription.
+2. You must have selenium chromedriver compatable to your device, refer the link https://chromedriver.chromium.org/downloads
 
 
 
