@@ -9,7 +9,7 @@ Prerequisites:
 
 
 Working:
-Once you entered into the database just need to search your requirements and copy the query link, and paste that link into the program at the place of query. Run the program and that’s it, rest is on the program it will start downloading the data.
+Once you entered into the database just need to search your requirements and copy the query link, and paste that link into the program at the place of variable query. Run the program and that’s it, rest is on the program it will start downloading the data.
 
 Exception Handling:
 While downloading the data if the program breaks anywhere, stops executing, and throws any error this means the internet speed is slow, you just need to check the current value of variables a and b and update these values in the program and re-execute it essentially this time your task must finish anyhow if this happens multiple times you must change our network over which you are working.
